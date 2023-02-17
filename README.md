@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tavowb&label=Profile%20views&color=0e75b6&style=flat" alt="tavowb" /> </p>
 
 
-- 🔭 I’m currently working on *technique tests of React**
+- 🔭 I’m currently working on **technique tests of React**
 
 - 🌱 I’m currently learning **React-testing-library**
 
