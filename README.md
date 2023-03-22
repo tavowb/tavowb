@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **technique tests of React**
 
-- 🌱 I’m currently learning **React-testing-library**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **C++, Java, Python, Html5, CSS, JavaScript, ReactJs...**
 
